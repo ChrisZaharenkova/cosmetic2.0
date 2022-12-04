@@ -384,7 +384,7 @@ body {
   .header__menu{display: none;}
   .header__container{justify-content: center}
   .main{
-    padding: 50px 0;
+    padding: 0px 0 50px 0;
   }
   .main__container{gap: 30px}
   .main-body{gap: 20px}
